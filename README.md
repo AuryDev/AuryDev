@@ -1,8 +1,8 @@
 👋 Olá! Sou AuryDev<br>
-💻 Desenvolvedor apaixonado por código e inovação
-🌟 Especialista em Front-End com as tecnologias HTML5, CSS3, JAVA SCRIPT, WORDPRESS
-🚀 Sempre em busca de novos desafios e aprendizado contínuo
-📚 Compartilhando projetos e contribuindo para a comunidade
-🔗 EM BREVE MEU SITE
+💻 Desenvolvedor apaixonado por código e inovação<br>
+🌟 Especialista em Front-End com as tecnologias HTML5, CSS3, JAVA SCRIPT, WORDPRESS<br>
+🚀 Sempre em busca de novos desafios e aprendizado contínuo<br>
+📚 Compartilhando projetos e contribuindo para a comunidade<br>
+🔗 EM BREVE MEU SITE<br>
 📫 Contato: aurydev39@gmail.com
 
