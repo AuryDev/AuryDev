@@ -5,5 +5,4 @@
 📚 Compartilhando projetos e contribuindo para a comunidade<br>
 🔗 EM BREVE MEU SITE<br>
 📫 Contato: aurydev39@gmail.com
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username= AuryDev)]( https://github.com/AuryDev)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuryDev&show_icons=true&theme=transparent)
