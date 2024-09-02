@@ -6,6 +6,8 @@
 🔗 EM BREVE MEU SITE<br>
 📫 Contato: aurydev39@gmail.com<br><br>
 ##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuryDev&hide=contribs,prs)
+##
 TECNOLOGIAS QUE EU USO<BR>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
