@@ -6,7 +6,7 @@
 🔗 EM BREVE MEU SITE<br>
 📫 Contato: aurydev39@gmail.com<br><br>
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src=" devicon-threedsmax-plain ">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 ##
 <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
