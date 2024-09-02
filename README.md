@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+## Ola, sou AuryDev
 **AuryDev/AuryDev** é um desenvolvedor Front-End Junior com experiencia nas seguintes tecnologias
 
 💻HTML5 | CSS3 | JAVASCRIPT | WORD PRESS
