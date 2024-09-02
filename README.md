@@ -1,4 +1,4 @@
-👋 Olá! Sou AuryDev
+👋 Olá! Sou AuryDev<br>
 💻 Desenvolvedor apaixonado por código e inovação
 🌟 Especialista em Front-End com as tecnologias HTML5, CSS3, JAVA SCRIPT, WORDPRESS
 🚀 Sempre em busca de novos desafios e aprendizado contínuo
